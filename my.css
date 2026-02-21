@@ -1,0 +1,16 @@
+<style>
+parent{
+  font-family: fantasy; /* غلط املایی 'fantansy' */
+  font-size: medium;
+  font-stretch: semi-condensed;
+  text-shadow: 1mm;
+}
+
+child{
+  direction: ltr; /* باید از علامت ':' استفاده شود */
+  margin: auto; /* غلط املایی 'margine' */
+  width:100px;
+  font-style: oblique;
+  font-weight: bold;
+}
+</style>
